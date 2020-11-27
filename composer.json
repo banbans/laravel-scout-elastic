@@ -1,5 +1,5 @@
 {
-  "name": "tamayo/laravel-scout-elastic",
+  "name": "banbans/laravel-scout-elastic",
   "description": "Elastic Driver for Laravel Scout",
   "license": "MIT",
   "authors": [
@@ -29,13 +29,13 @@
   },
   "autoload": {
     "psr-4": {
-      "Tamayo\\LaravelScoutElastic\\": "src/"
+      "Banbans\\LaravelScoutElastic\\": "src/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "Tamayo\\LaravelScoutElastic\\LaravelScoutElasticProvider"
+        "Banbans\\LaravelScoutElastic\\LaravelScoutElasticProvider"
       ]
     }
   },

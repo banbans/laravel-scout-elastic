@@ -1,6 +1,6 @@
 <?php
 
-namespace Tamayo\LaravelScoutElastic\Engines;
+namespace Banbans\LaravelScoutElastic\Engines;
 
 use Laravel\Scout\Builder;
 use Laravel\Scout\Engines\Engine;

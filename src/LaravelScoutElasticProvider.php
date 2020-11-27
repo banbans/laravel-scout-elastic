@@ -1,12 +1,12 @@
 <?php
 
-namespace Tamayo\LaravelScoutElastic;
+namespace Banbans\LaravelScoutElastic;
 
 use Exception;
 use Elasticsearch\ClientBuilder;
 use Laravel\Scout\EngineManager;
 use Illuminate\Support\ServiceProvider;
-use Tamayo\LaravelScoutElastic\Engines\ElasticsearchEngine;
+use Banbans\LaravelScoutElastic\Engines\ElasticsearchEngine;
 
 class LaravelScoutElasticProvider extends ServiceProvider
 {
